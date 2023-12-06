@@ -11,3 +11,6 @@
 * or no need to do `git init` in the `local repository (into your machine)` 
 * now just do in that terminal  ---- `git clone` and paste that copy link and paste it.
 
+#### Now if you want to write README.md file follow user discriptoins and to show image in that file you have to create 1 `images` folder in local repo via.. `GUI means mannually in local pc OR mkdir images`= in terminal.
+
+
