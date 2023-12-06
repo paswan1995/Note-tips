@@ -22,6 +22,12 @@
 1 do right click now click on `open with code or vs code` .
 ![preview](images/tips10.png)
 ![preview](images/tips11.png)
+## If you want to view in github accout whatever you write in `vs code` for that you have to do 
+1 `git status`
+2 `git add .`
+3 `git commit -m "some changes"`
+4 `git push`
+---------------------------------------------------------------------------------------
 
 
 
