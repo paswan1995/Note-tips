@@ -27,6 +27,7 @@
 2 `git add .`
 3 `git commit -m "some changes"`
 4 `git push`
+![preview](images/tips12.png)
 ---------------------------------------------------------------------------------------
 
 
