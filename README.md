@@ -19,7 +19,7 @@
 
 #### Now if you want to write README.md file follow user discriptoins and to show image in that file you have to create 1 `images` folder in local repo via.. `GUI means mannually in local pc OR mkdir images`= in terminal and save that images/photos in `images folder` .
 ## Now got to that particular folder where you want to write README.md file or save that files. 
-1 do right click now click on `open with code or vs code` .
+1 do right click now and  click on `open with code or vs code` or in terminal write `code .` it will open `vs code` .
 ![preview](images/tips10.png)
 ![preview](images/tips11.png)
 ## If you want to view in github accout whatever you write in `vs code` for that you have to do 
@@ -28,6 +28,7 @@
 3 `git commit -m "some changes"`
 4 `git push`
 ![preview](images/tips12.png)
+
 ---------------------------------------------------------------------------------------
 
 
