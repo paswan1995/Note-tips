@@ -5,7 +5,7 @@
 * ![preview](images/tips2.png)
 * ![preview](images/tips3.png)
 * Now click on the new reop after that click on `code`,`HTTPS----------- copy that link` 
-* and now go to terminal and do where you want to do git clone
+* and now go to terminal and do where you want to do cd=change directory git clone
 * `cd d: , cd e: , cd c: ` 
 * if you have alredy created repo so there is no need to create a new `folder` in your `local repo`.
 * or no need to do `git init` in the `local repository (into your machine)` 
