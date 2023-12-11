@@ -34,7 +34,8 @@
 ![preview](images/tips13.png)
 by typing `cd c: , cd d: , cd e: ` wherever you saved your file 
 then goto that folder `cd d: devops` then `code .` it will open soon.
----------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+
 
 
 
