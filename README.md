@@ -29,6 +29,11 @@
 4 `git push`
 ![preview](images/tips12.png)
 
+## you can open `vs code ` through terminal which is given below---!
+                                                                   !
+![preview](images/tips13.png)
+by typing `cd c: , cd d: , cd e: ` wherever you saved your file 
+then goto that folder `cd d: devops` then `code .` it will open soon.
 ---------------------------------------------------------------------------------------
 
 
